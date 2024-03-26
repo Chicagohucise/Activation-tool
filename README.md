@@ -1,28 +1,36 @@
-Activation Tool Usage Instructions
-Introduction
+Got it, here's the updated README:
+
+---
+
+# Activation Tool Usage Instructions
+
+## Introduction
 The Activation Tool comprises multiple VBScript files within the project folder. Each script serves to activate specific software based on user preferences. Successful activation will be indicated by a confirmation message displayed after execution.
 
-Usage
-Download the Project Folder:
+## Usage
+1. **Download the Project Folder**:
+    - Download the entire `activation_tool` folder to your computer from the [GitHub repository](https://github.com/your-username/activation-tool) or any other source.
 
-Download the entire activation_tool folder to your computer from the GitHub repository or any other source.
-Preparation:
+2. **Preparation**:
+    - Before activating your target software, ensure that the software is closed.
 
-Before activating your target software, ensure that the software is closed.
-Select Desired VBScript for Activation:
+3. **Select Desired VBScript for Activation**:
+    - Navigate to the `activation_tool` folder on your computer.
+    - Browse through the VBScript files available based on your activation requirements.
 
-Navigate to the activation_tool folder on your computer.
-Browse through the VBScript files available based on your activation requirements.
-Run the Selected VBScript:
+4. **Run the Selected VBScript**:
+    - Right-click on the chosen VBScript file.
+    - Select "Open" to execute the script.
+    - Wait for the script to execute. Upon successful activation, you'll see a confirmation message.
 
-Right-click on the chosen VBScript file.
-Select "Open" to execute the script.
-Wait for the script to execute. Upon successful activation, you'll see a confirmation message.
-Notes
-Internet Connection: Ensure your computer is connected to the internet during the activation process.
-Antivirus Software: Some antivirus software may flag VBScript files as potentially harmful. If encountered, consider temporarily disabling the antivirus or adding the script to the antivirus whitelist.
-Contributions
-If you have any improvements or suggestions, feel free to raise issues or submit pull requests on the GitHub repository.
+## Notes
+- **Internet Connection**: Ensure your computer is connected to the internet during the activation process.
+- **Antivirus Software**: Some antivirus software may flag VBScript files as potentially harmful. If encountered, consider temporarily disabling the antivirus or adding the script to the antivirus whitelist.
 
-License
-This activation tool is open-sourced under the MIT License. Refer to the license file for details.
+## Contributions
+If you have any improvements or suggestions, feel free to raise issues or submit pull requests on the [GitHub repository](https://github.com/your-username/activation-tool).
+
+## License
+This activation tool is open-sourced under the [MIT License](LICENSE). Refer to the license file for details.
+
+---
